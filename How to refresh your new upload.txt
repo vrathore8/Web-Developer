@@ -1,0 +1,7 @@
+git status  (check which file is not uploded)
+
+git add . (1st step)
+
+git commit -m "added (file-name)"   (add file-name)
+
+git push origin master  (final step)
